@@ -1,18 +1,20 @@
-# russian-soldiers-captured-in-ukraine-2022-info
+# russian-attack-on-ukraine-2022-info
 
-This project is created to spread information about russian captured soldiers in Ukraine in 2022.
+This project is created to spread information about russian attack on Ukraine in 2022.
 
-Загальні бойові втрати противника з 24.02 по 05.03 орієнтовно склали / The total combat losses of the enemy from 24.02 to 05.03 were approximately:  
-особового складу / personnel - понад / more 10 000 осіб,  
-танків / tanks ‒ 269 од,  
-бойових броньованих машин / APV  ‒ 945 од,  
-артилерійських систем / artillery systems – 105 од,  
-РСЗВ / MLRS - 50 од,  
-засоби ППО / Anti-aircraft warfare systems - 19 од,  
-літаків / aircraft – 39 од (уточнюється),   
-гелікоптерів / helicopters – 40 од (інформація уточнюється);  
-автомобільної техніки / vehicles - 409 од,  
-легкі швидкісні катери / light speedboats - 2 од,  
-цистерн з ПММ / fuel tanks - 60,   
-БПЛА оперативно-тактичного рівня / UAV operational-tactical level - 3.  
-Дані уточнюються. Підрахунок ускладнюється високою інтенсивністю бойових дій. / Data are being updated. The calculation is complicated by the high intensity of hostilities.   
+The total combat losses of the enemy from 24.02 to 05.03 were approximately:  
+personnel - more 10 000,  
+tanks ‒ 269,  
+APV  ‒ 945,  
+artillery systems – 105,  
+MLRS - 50,  
+Anti-aircraft warfare systems - 19,  
+aircraft – 39,   
+helicopters – 40;  
+vehicles - 409,  
+light speedboats - 2,  
+fuel tanks - 60,   
+UAV operational-tactical level - 3.  
+Data are being updated. The calculation is complicated by the high intensity of hostilities.
+
+Source: https://www.facebook.com/GeneralStaff.ua/posts/pfbid0zJc9EekdRYWSTzbYJ54B6a383UfvfNUgK9rr1Kx5n5UgWrYAVf7i5oyqPMwXmgJMl?__cft__[0]=AZV82Ta2MqzR0zpKFL3LoSuk4umgPmz7BFLXpjYUkjhgGhgM6NR44PZnnJnEkvWs6MfTc--csqtJ_zlpi1vaVngLRMWJZ6ui7YxlH7mJCcEdc-k54Xdkutodj_R1lSdt_wS5ore1-GdwlJ7HAX0tcRIBdvYUl-R0JbPC9uYpf8w12g&__tn__=%2CO%2CP-R
