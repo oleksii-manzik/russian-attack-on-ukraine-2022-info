@@ -21,5 +21,5 @@ Data are being updated. The calculation is complicated by the high intensity of 
 Source: https://www.facebook.com/GeneralStaff.ua/posts/pfbid0zJc9EekdRYWSTzbYJ54B6a383UfvfNUgK9rr1Kx5n5UgWrYAVf7i5oyqPMwXmgJMl?__cft__[0]=AZV82Ta2MqzR0zpKFL3LoSuk4umgPmz7BFLXpjYUkjhgGhgM6NR44PZnnJnEkvWs6MfTc--csqtJ_zlpi1vaVngLRMWJZ6ui7YxlH7mJCcEdc-k54Xdkutodj_R1lSdt_wS5ore1-GdwlJ7HAX0tcRIBdvYUl-R0JbPC9uYpf8w12g&__tn__=%2CO%2CP-R
 
 ## Sites for finding captured russian soldiers:
-https://200rf.com/
+https://200rf.com/  
 https://invaders-rf.com/
