@@ -24,8 +24,20 @@ Source: https://www.facebook.com/GeneralStaff.ua/posts/pfbid0zJc9EekdRYWSTzbYJ54
 https://200rf.com/  
 https://invaders-rf.com/
 
-## Bombing of Yakovlivka by Russian aircraft
+## Bombing of Yakovlivka by Russian aircraft 2022/03/05
 In the Kharkiv region, as a result of the bombing of the village of Yakovlivka by Russian aircraft, none of the houses survived. Of the 45 homes, 21 homes were destroyed and another 24 were damaged. Four people were killed and 14 civilians were injured.
 
 Video of the consequences of the air raid on the village on the night of March 3:
-[![Bombing of Yakovlivka by Russian aircraft](http://img.youtube.com/vi/_kfOF9TuchY/0.jpg)](https://www.youtube.com/watch?v=_kfOF9TuchY)
+[![Bombing of Yakovlivka by Russian aircraft](http://img.youtube.com/vi/_kfOF9TuchY/0.jpg)](https://www.youtube.com/watch?v=_kfOF9TuchY)  
+
+## Bombing of Bila Tserkva by Russian aircraft 2022/03/05  
+In Bila Tserkva near Kyiv, 20 houses were damaged by an airstrike, according to the National Police.
+https://t.me/suspilnenews/7167  
+
+## Kherson 2022/03/05
+Residents of Kherson went on a peaceful rally today to show the Russian military that Kherson is Ukraine. The action takes place on the central square of the city - Svobody Square.    
+During the rally, the Russian military opened a warning fire on people, but this did not stop the people of Kherson. People come and go to the square from all districts of the city. They filled almost the entire area.  
+https://t.me/suspilnenews/7163  
+<img src="https://user-images.githubusercontent.com/46224733/156897973-c897de33-2520-4f9b-ac2d-a5077d66bf40.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/46224733/156897979-9cd08700-08d9-411b-a506-88e989c8bc04.jpg" width="400">
+
