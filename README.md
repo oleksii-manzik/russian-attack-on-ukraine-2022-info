@@ -23,3 +23,9 @@ Source: https://www.facebook.com/GeneralStaff.ua/posts/pfbid0zJc9EekdRYWSTzbYJ54
 ## Sites for finding captured russian soldiers:
 https://200rf.com/  
 https://invaders-rf.com/
+
+## Bombing of Yakovlivka by Russian aircraft
+In the Kharkiv region, as a result of the bombing of the village of Yakovlivka by Russian aircraft, none of the houses survived. Of the 45 homes, 21 homes were destroyed and another 24 were damaged. Four people were killed and 14 civilians were injured.
+
+Video of the consequences of the air raid on the village on the night of March 3:
+[![Bombing of Yakovlivka by Russian aircraft](http://img.youtube.com/vi/_kfOF9TuchY/0.jpg)](https://www.youtube.com/watch?v=_kfOF9TuchY)
