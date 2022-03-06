@@ -7,24 +7,32 @@ https://200rf.com/
 https://invaders-rf.com/
 
 ## Actual russian loses
-The total combat losses of the enemy from 24.02 to 05.03 were approximately:  
-personnel - more 10 000,  
-tanks ‒ 269,  
-APV  ‒ 945,  
-artillery systems – 105,  
+The total combat losses of the enemy from 24.02 to 06.03 were approximately:  
+personnel - more 11 000,  
+tanks ‒ 285,  
+APV  ‒ 985,  
+artillery systems – 109,  
 MLRS - 50,  
-Anti-aircraft warfare systems - 19,  
-aircraft – 39,   
-helicopters – 40;  
-vehicles - 409,  
+Anti-aircraft warfare systems - 21,  
+aircraft – 44,   
+helicopters – 48;  
+vehicles - 447,  
 light speedboats - 2,  
 fuel tanks - 60,   
-UAV operational-tactical level - 3.  
+UAV operational-tactical level - 4.  
 Data are being updated. The calculation is complicated by the high intensity of hostilities.
 
-Source: https://www.facebook.com/GeneralStaff.ua/posts/pfbid0zJc9EekdRYWSTzbYJ54B6a383UfvfNUgK9rr1Kx5n5UgWrYAVf7i5oyqPMwXmgJMl?__cft__[0]=AZV82Ta2MqzR0zpKFL3LoSuk4umgPmz7BFLXpjYUkjhgGhgM6NR44PZnnJnEkvWs6MfTc--csqtJ_zlpi1vaVngLRMWJZ6ui7YxlH7mJCcEdc-k54Xdkutodj_R1lSdt_wS5ore1-GdwlJ7HAX0tcRIBdvYUl-R0JbPC9uYpf8w12g&__tn__=%2CO%2CP-R
+Source: https://www.facebook.com/GeneralStaff.ua
 
-## News
+## News  
+Source: https://suspilne.media/211514-russia-invades-ukraine-live-updates-suspilne/  
+
+### Bombing of Velyka Pisarivka, Sumy region 2022/03/06
+Russian artillery all day shelled the village of Velyka Pisarivka, Sumy region. Houses and electric networks are damaged, there is no light in the village — Dmytro Zhyvytskyi, head of the Sumy Regional State Administration.  
+https://t.me/Zhyvytskyy/801  
+<img src="https://user-images.githubusercontent.com/46224733/156913568-0d72aef3-f34d-4865-997a-93a7851da69e.jpeg" height="300">
+<img src="https://user-images.githubusercontent.com/46224733/156913577-68e687a3-4ada-4bd5-951a-e0f3ef826e25.jpeg" height="300">  
+
 ### Air strikes in the North Saltivka district of Kharkiv 2022/03/05
 About ten high-rise buildings were damaged on March 5 as a result of air strikes in the North Saltivka district of Kharkiv, the State Emergency Service. Due to the fact that the shelling of the city does not stop, the work of firefighters had to be suspended at some addresses.  
 https://t.me/suspilnekharkiv/8834  
