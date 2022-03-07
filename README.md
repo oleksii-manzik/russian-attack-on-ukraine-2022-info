@@ -27,6 +27,14 @@ Source: https://www.facebook.com/GeneralStaff.ua
 ## News  
 Source: https://suspilne.media/211514-russia-invades-ukraine-live-updates-suspilne/  
 
+### Bombing of Mykolaiv 2022/03/07
+At 5:15 the Russian army attacked Mykolaiv using multiple rocket launchers.  
+https://t.me/suspilnemykolaiv/4629  
+
+### Attack on foreign journalist by russian terrorists 2022/03/06
+Foreign journalist from Guillaume Briquet, who received shrapnel wounds, is being treated in Kropyvnytskyi - said Maria Chorna, the head of the Kirovohrad Regional Military Administration. The car of the journalist took fire from the Russian military near the village of Vodiano-Loryne in the Mykolaiv region.  
+<img src="https://user-images.githubusercontent.com/46224733/156990743-7c452094-05f8-4e06-b088-7896945fd52c.jpg" height="300">
+
 ### Bombing of Velyka Pisarivka, Sumy region 2022/03/06
 Russian artillery all day shelled the village of Velyka Pisarivka, Sumy region. Houses and electric networks are damaged, there is no light in the village — Dmytro Zhyvytskyi, head of the Sumy Regional State Administration.  
 https://t.me/Zhyvytskyy/801  
