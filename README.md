@@ -7,19 +7,19 @@ https://200rf.com/
 https://invaders-rf.com/
 
 ## Actual russian loses
-The total combat losses of the enemy from 24.02 to 06.03 were approximately:  
+The total combat losses of the enemy from 24.02 to 07.03 were approximately:  
 personnel - more 11 000,  
-tanks ‒ 285,  
-APV  ‒ 985,  
-artillery systems – 109,  
+tanks ‒ 290,  
+APV  ‒ 999,  
+artillery systems – 117,  
 MLRS - 50,  
-Anti-aircraft warfare systems - 21,  
-aircraft – 44,   
-helicopters – 48;  
-vehicles - 447,  
-light speedboats - 2,  
+Anti-aircraft warfare systems - 23,  
+aircraft – 46,   
+helicopters – 68;  
+vehicles - 454,  
+boats / light speedboats - 3,  
 fuel tanks - 60,   
-UAV operational-tactical level - 4.  
+UAV operational-tactical level - 7.  
 Data are being updated. The calculation is complicated by the high intensity of hostilities.
 
 Source: https://www.facebook.com/GeneralStaff.ua
